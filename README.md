@@ -9,3 +9,5 @@ GBE+ latest offical release: https://github.com/shonumi/gbe-plus/releases/latest
 #### How to use these templates
 
 Download the zip file by pressing the big green button and extract it into your GBE-Plus folder. Edit graphics in the game folder of your choice, load the manifest in the program and play!
+
+If updating to a newer manifest file extract the zip into a NEW folder then copy and paste the text file and overwrite the old one. Be sure to backup your orignial folder before extracting just in case!
